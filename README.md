@@ -66,7 +66,7 @@ As part of the process of determining if this dataset was suitable, the Communit
 
 City of Calgary Planning Sectors (Source: [6])
 
-![Planning sectors map](Screenshots/calgary_planning_sectors.png)
+![Planning sectors map](Screenshots/calgary_planning_sectors.PNG)
 
 ## How to Run
 To run the script, type in a terminal with Python 3.9 or higher installed, with Python added to the PATH:
@@ -80,26 +80,26 @@ Below are sample run screenshots of the program running:
 
 ### User Input
 
-![user input](Screenshots/final_project_592_user_input.png)
+![user input](Screenshots/final_project_592_user_input.PNG)
 
 ### Outputs
 
 #### Data Description
-![Data Description](Screenshots/final_project_592_describe.png)
+![Data Description](Screenshots/final_project_592_describe.PNG)
 
 #### Population
-![Population by Sector and Community Code](Screenshots/final_project_592_number_of_persons_by_sector_comm.png)
+![Population by Sector and Community Code](Screenshots/final_project_592_number_of_persons_by_sector_comm.PNG)
 
-![Population by Sector and Community Code cont.](Screenshots/final_project_592_number_of_persons_by_sector_comm_continued.png)
+![Population by Sector and Community Code cont.](Screenshots/final_project_592_number_of_persons_by_sector_comm_continued.PNG)
 
 #### Mode Share
-![Mode Share By Sector and Community Code](Screenshots/final_project_592_mode_share_by_sector_comm.png)
+![Mode Share By Sector and Community Code](Screenshots/final_project_592_mode_share_by_sector_comm.PNG)
 
-![Mode Share By Sector and Community Code cont.](Screenshots/final_project_592_mode_share_by_sector_comm_continued.png)
+![Mode Share By Sector and Community Code cont.](Screenshots/final_project_592_mode_share_by_sector_comm_continued.PNG)
 
 #### Additional Stats
 
-![Additional Stats](Screenshots/final_project_592_masking_groupby_aggregation_pivot)
+![Additional Stats](Screenshots/final_project_592_masking_groupby_aggregation_pivot.PNG)
 
 ### Graphs
 
